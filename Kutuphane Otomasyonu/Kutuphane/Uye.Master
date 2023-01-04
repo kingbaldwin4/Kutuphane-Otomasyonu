@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Uye.master.cs" Inherits="Kutuphane.Uye" %>
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" />
+<link href="Css/CssM.css" rel="stylesheet" />
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div class="navbar">
+            <asp:LinkButton OnClick="UAnasayfa" runat="server" CausesValidation="false">Anasayfa</asp:LinkButton>
+            <div class="subnav">
+                <button class="subnavbtn">Profil <i class="fa fa-caret-down"></i></button>
+                <div class="subnav-content">
+                    <a href="Member.aspx">Profilim</a>
+                    <a href="BilgiGuncelle.aspx">Bilgilerimi Güncelle</a>
+                </div>
+            </div>
+            <a href="UKiralama.aspx">Kiralanan Kitaplar</a>
+            <asp:LinkButton OnClick="Cikis" runat="server" CausesValidation="false">Çıkış Yap</asp:LinkButton>
+            <div class="search-container">
+                <asp:TextBox runat="server" ID="kitap" placeholder="Kitap Ara.." />
+                <button onserverclick="ListKitap" id="searchbtn" class="sideButton" runat="server"><i class="fa fa-search"></i></button>
+            </div>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

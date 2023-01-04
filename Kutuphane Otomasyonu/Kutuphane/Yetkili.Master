@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Yetkili.Master.cs" Inherits="Kutuphane.Yetkili" %>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" />
+
+
+<!DOCTYPE html>
+<link href="Css/CssOther.css" rel="stylesheet" />
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Yetkili</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="navbar">
+            <asp:LinkButton onclick="Anasayfa" runat="server" CausesValidation="false">Anasayfa</asp:LinkButton>
+            <div class="subnav">
+                <button class="subnavbtn">Profil <i class="fa fa-caret-down"></i></button>
+                <div class="subnav-content">
+                    <a href="Authorized.aspx">Profilim</a>
+                    <a href="YetkiliGuncelle.aspx">Bilgilerimi Güncelle</a>
+                </div>
+            </div>
+            <div class="subnav">
+                <button class="subnavbtn">Kitap <i class="fa fa-caret-down"></i></button>
+                <div class="subnav-content">
+                    <asp:LinkButton onclick="KitapKirala" runat="server" CausesValidation="false">Kitap Kirala</asp:LinkButton>
+                    <a href="KitapEkle.aspx">Yeni Ekle</a>
+                    <asp:LinkButton  OnClick="KitapGuncelle" runat="server" CausesValidation="false">Kitabı Düzenle</asp:LinkButton>
+                    <a href="Kiralananlar.aspx">Kiralanan Kitaplar</a>
+                    <a href="EskiKira.aspx">İade Edilmiş Kitaplar</a>
+                </div>
+            </div>
+            <div class="subnav">
+                <button class="subnavbtn">Kullanıcı <i class="fa fa-caret-down"></i></button>
+                <div class="subnav-content">
+                    <a href="KullaniciEkle.aspx">Kullanıcı Kaydı</a>
+                    <asp:LinkButton  OnClick="MyFunction" runat="server" CausesValidation="false">Kullanıcı Bilgileri</asp:LinkButton>
+                    <a href="KullaniciAktif.aspx">Kullanıcı Aktifleştirme</a>
+                    
+                </div>
+            </div>
+            <asp:LinkButton  OnClick="Cikis" runat="server" CausesValidation="false">Çıkış Yap</asp:LinkButton>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder> 
+    </form>
+</body>
+</html>

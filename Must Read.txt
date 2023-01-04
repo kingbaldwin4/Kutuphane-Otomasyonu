@@ -1,0 +1,9 @@
+Projemi 2019 yılındaki yaz stajımda yaptığım için son teknoloji teknikler olan N-Katmanlı Mimari ve Code First tekniğini içermemektedir
+
+Database First olarak yazdığım kodum(dönemin şartları ve staj sorumlumun tutumu gereği), Veri tabanı olarak Sql Management Studio 2012'de oluşturacağımız tabloyu kullanır
+
+Stajımı eski bilgisayarımda yaptığım için oluşturduğum tablo silindi
+
+KutuphaneDLL klasöründen sql bağlantısını, dataTable nesnesinin oluşturulmasını ve sql sorgularını bulabilirsiniz
+
+Yüksek Lisans yaptığım için yeni neslini geliştirmeye vaktim olmadı ama hedefim yeni nesil tekniklerle bu projeyi yeniden üretmek :)

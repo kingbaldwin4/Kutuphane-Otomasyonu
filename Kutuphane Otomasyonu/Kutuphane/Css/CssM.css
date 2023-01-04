@@ -1,0 +1,744 @@
+﻿body {
+    background-color: mistyrose;
+}
+.navbar {
+    overflow: hidden;
+    background-color: indianred;
+}
+
+    /* Navigation links */
+    .navbar a {
+        float: left;
+        font-size: 16px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+/* The subnavigation menu */
+.subnav {
+    float: left;
+    overflow: hidden;
+}
+
+    /* Subnav button */
+    .subnav .subnavbtn {
+        font-size: 16px;
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
+
+    /* Add a red background color to navigation links on hover */
+    .navbar a:hover, .subnav:hover .subnavbtn {
+        background-color: darkred;
+    }
+
+/* Style the subnav content - positioned absolute */
+.subnav-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: lightcoral;
+    width: 100%;
+    z-index: 1;
+}
+
+    /* Style the subnav links */
+    .subnav-content a {
+        float: left;
+        color: white;
+        text-decoration: none;
+    }
+
+        /* Add a grey background color on hover */
+        .subnav-content a:hover {
+            background-color: #eee;
+            color: black;
+        }
+
+/* When you move the mouse over the subnav container, open the subnav content */
+.subnav:hover .subnav-content {
+    display: block;
+}
+
+.table1 {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: auto;
+    left: 42%;
+    background-color: transparent;
+}
+.table3 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: auto;
+    left: 8%;
+    background-color: transparent;
+}
+
+.div1 {
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    opacity: 0.7;
+    border-color: black;
+    margin-top: 300px;
+    margin-left: auto;
+    position: absolute;
+    left: 39%;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+    border-radius: 15px;
+}
+.div1 {
+    width: 400px;
+    height: 200px;
+    background-color: indianred;
+    border-color: indianred;
+    margin-top: 300px;
+    margin-left: auto;
+    position: absolute;
+    left: 39%;
+}
+
+.label1 {
+    width: 120px;
+    color: indianred;
+}
+
+.label2 {
+    width: 120px;
+    color: white;
+}
+
+.header1 {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: auto;
+    left: 43%;
+    color:darkred;
+}
+
+.text1 {
+    margin-right: auto;
+    width: 180px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: indianred;
+    border-bottom-color: darkred;
+    border-bottom: solid 1px;
+}
+.text2 {
+    margin-right: auto;
+    width: 180px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    border-bottom-color: darkred;
+    border-bottom: solid 1px;
+}
+
+.buttons {
+    width: 300px;
+    transform: translate(5px,40px);
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: papayawhip;
+}
+.buttonSifre {
+    width: 300px;
+    transform: translate(5px,50px);
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: papayawhip;
+}
+
+.errorBos {
+    width: 300px;
+    transform: translate(60px,60px);
+    color: burlywood;
+}
+
+.errorOlan {
+    width: 300px;
+    transform: translate(-80px,60px);
+    color: burlywood;
+}
+
+.table2 {
+    top: 60%;
+    left: 60%;
+    transform: translate(30%,60px);
+}
+.tableProfil {
+    top: 60%;
+    left: 60%;
+    transform: translate(70px,35px);
+}
+
+.confirm {
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    opacity: 0.7;
+    border-color: black;
+    margin-top: 300px;
+    margin-left: auto;
+    left: 39%;
+    position: absolute;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+    border-radius: 15px;
+}
+
+
+.confirmLabel {
+    position: absolute;
+    margin-top: 95px;
+    margin-left: auto;
+    left: 25%;
+    color: indianred;
+}
+
+.confirmLabel2 {
+    position: absolute;
+    margin-top: 95px;
+    margin-left: auto;
+    transform:translateX(105px);
+    color: indianred;
+}
+
+.confirmLabelDel {
+    position: absolute;
+    margin-top: 95px;
+    margin-left: auto;
+    left: 15%;
+    color: indianred;
+}
+
+.confirm2 {
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 100px;
+    background-color: transparent;
+    margin-top: 500px;
+    margin-left: auto;
+    left: 39%;
+    position: absolute;
+}
+/*}*/
+.search input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    width: 700px;
+    background: #f1f1f1;
+}
+
+.butonForSearching {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    width: 100px;
+    background-color: cadetblue;
+}
+
+.search {
+    align-items: center;
+    padding:14px 16px;
+    background-color: dimgray;
+    opacity: 0.6;
+    border-color: black;
+    margin-top: 300px;
+    margin-left: auto;
+    left: 19%;
+    position: absolute;
+    box-shadow: 0px 0px 10px 5px dimgray;
+    border-radius: 15px;
+}
+
+.tableSearch {
+    width: 800px;
+    transform: translate(80px,50px);
+}
+
+.textMulti {
+    margin-right: auto;
+    width: 310px;
+    height: 100px;
+    background-color: transparent;
+    border: solid 1px;
+    outline: none;
+    color: indianred;
+    border-color: indianred;
+}
+
+.buttonUpload {
+    width: 300px;
+    transform: translate(5px,10px);
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: papayawhip;
+}
+
+.errorUpload {
+    width: 300px;
+    transform: translate(50px,20px);
+    color: burlywood;
+}
+
+.imageKitap {
+    border: solid 1px;
+    border-color: burlywood;
+    margin-left: 70px;
+}
+
+.mainDiv {
+    text-align: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    background-color: black;
+    opacity: 0.6;
+    border-color: black;
+    margin-top: 40px;
+    margin-left: 500px;
+    position: absolute;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+}
+
+.grid {
+    align-items: center;
+    text-align: center;
+    color: indianred;
+    background-color: white;
+    border-color: firebrick;
+    
+}
+
+.butonKitap {
+    width: 300px;
+    transform:translateY(10px);
+    cursor: pointer;
+    border-radius: 3px;
+    text-decoration: none;
+    color: darkred;
+}
+
+
+.overlay {
+    position: absolute;
+    left: 0;
+    margin-top:-485px;
+    width: 395px;
+    height:480px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: white;
+    border: solid 5px;
+    border-color: darkred;
+}
+
+    .overlay:hover {
+        opacity: 1;
+    }
+
+.tablo {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.calendar {
+    background-color: bisque;
+    position: relative;
+    left: 15px;
+    text-decoration: none;
+}
+
+.divKira {
+    text-align: center;
+    align-items: center;
+    width: 700px;
+    height: 600px;
+    background-color: black;
+    opacity: 0.6;
+    border-color: black;
+    margin-top: 80px;
+    margin-left: 600px;
+    position: absolute;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+}
+
+.imageKitap2 {
+    border: solid 1px;
+    border-color: burlywood;
+}
+
+.imageKira {
+    position: absolute;
+    left: 30px;
+    top: 50px;
+}
+
+.tableKira {
+    position: absolute;
+    left: 360px;
+    top: 20px;
+}
+
+.divKira .buttons {
+    position: absolute;
+    top: 490px;
+}
+
+.labelError {
+    width: 220px;
+    color: dimgray;
+    position: absolute;
+    left: 50px;
+    top: 500px;
+}
+
+.buttonKira {
+    width: 300px;
+    transform: translate(5px,10px);
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: papayawhip;
+}
+
+
+.navbar .search-container {
+    float: right;
+}
+
+.navbar input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+}
+
+.navbar .search-container button {
+
+    float: right;
+    height:32px;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+    
+
+    .navbar .search-container button:hover {
+        background: #ccc;
+    }
+   
+
+    @media screen and (max-width: 600px) {
+        .navbar .search-container {
+            float: none;
+        }
+        .navbar a, .navbar input[type=text], .navbar .search-container button {
+            float: none;
+            display: block;
+            text-align: left;
+            width: 100%;
+            margin: 0;
+            padding: 14px;
+        }
+        .navbar input[type=text] {
+            border: 1px solid #ccc;
+        }
+    }
+.btnCheck {
+    padding: 10px 10px;
+    margin: 10px;
+}
+.yorum {
+    text-align: center;
+    align-items: center;
+    width: 1000px;
+    background-color: inherit;
+    opacity: 0.6;
+    margin-top: 40px;
+    margin-left: 600px;
+    position: absolute;
+}
+.mainComment {
+    width: 400px;
+    height: 150px;
+    margin-top: 80px;
+    margin-left: 600px;
+    position: absolute;
+}
+.userC {
+    font:24px;
+    color:darkred;
+    margin-top: 170px;
+    margin-left: 550px;
+    position: absolute;
+}
+.rate {
+    margin-top: 220px;
+    margin-left: 590px;
+    position: absolute;
+    height: 46px;
+    padding: 0 10px;
+}
+
+    .rate:not(:checked) > input {
+        position: absolute;
+        top: -9999px;
+    }
+
+    .rate:not(:checked) > label {
+        float: right;
+        width: 1em;
+        overflow: hidden;
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 30px;
+        color: #ccc;
+    }
+
+        .rate:not(:checked) > label:before {
+            content: '★ ';
+        }
+
+    .rate > input:checked ~ label {
+        color: #ffc700;
+    }
+
+    .rate:not(:checked) > label:hover,
+    .rate:not(:checked) > label:hover ~ label {
+        color: #deb217;
+    }
+
+    .rate > input:checked + label:hover,
+    .rate > input:checked + label:hover ~ label,
+    .rate > input:checked ~ label:hover,
+    .rate > input:checked ~ label:hover ~ label,
+    .rate > label:hover ~ input:checked ~ label {
+        color: #c59b08;
+    }.rate {
+    margin-top: 220px;
+    margin-left: 590px;
+    position: absolute;
+    height: 46px;
+    padding: 0 10px;
+}
+
+    .rate:not(:checked) > input {
+        position: absolute;
+        top: -9999px;
+    }
+
+    .rate:not(:checked) > label {
+        float: right;
+        width: 1em;
+        overflow: hidden;
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 30px;
+        color: #ccc;
+    }
+
+        .rate:not(:checked) > label:before {
+            content: '★ ';
+        }
+
+    .rate > input:checked ~ label {
+        color: #ffc700;
+    }
+
+    .rate:not(:checked) > label:hover,
+    .rate:not(:checked) > label:hover ~ label {
+        color: #deb217;
+    }
+
+    .rate > input:checked + label:hover,
+    .rate > input:checked + label:hover ~ label,
+    .rate > input:checked ~ label:hover,
+    .rate > input:checked ~ label:hover ~ label,
+    .rate > label:hover ~ input:checked ~ label {
+        color: #c59b08;
+    }
+
+
+.rateBook {
+    margin-top: -40px;
+    margin-left: 50px;
+    position: absolute;
+    height: 46px;
+    padding: 0 10px;
+}
+
+    .rateBook:not(:checked) > input {
+        position: absolute;
+        top: -9999px;
+    }
+
+    .rateBook:not(:checked) > label {
+        float: right;
+        width: 1em;
+        overflow: hidden;
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 30px;
+        color: #ccc;
+    }
+
+        .rateBook:not(:checked) > label:before {
+            content: '★ ';
+        }
+
+    .rateBook > input:checked ~ label {
+        color: #ffc700;
+    }
+
+
+.butonYorum {
+    width: 200px;
+    transform: translate(790px,242px);
+    cursor: pointer;
+    border-color:white;
+    padding:5px 80px;
+    border-radius: 3px;
+    background-color: white;
+
+}
+.gridComment {
+    text-align: center;
+    align-items: center;
+    width: 1000px;
+    opacity:0.8;
+    background-color: white;
+    border:10px solid indianred;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 350px;
+    margin-bottom:40px;
+}
+
+.CommentBox {
+    overflow:auto;
+    padding:10px 10px;
+    background-color: white;
+    border:1px solid indianred;
+    position:relative;
+    margin-top:15px;
+    margin-left:10px;
+    width:800px;
+    height:80px;
+    
+}
+.NameBox {
+    text-align: center;
+    align-items: center;
+    width: 80px;
+    position: relative;
+    margin-top: 30px;
+}
+.alert {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    position:fixed;
+    transform:translate(700px,-130px);
+}
+.alert2 {
+    width:200px;
+    height:200px;
+    padding: 20px;
+    background-color: indianred;
+    position:fixed;
+    overflow:auto;
+    transform:translate(700px,220px);
+}
+.likeGrid{
+    width:inherit;
+    height:inherit;
+    border:none;
+    padding:5px 5px;
+    color:white;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .closebtn:hover {
+        color: black;
+    }
+
+.thumbs{
+    transform:translateX(700px);
+}
+
+.LikeButtons {
+    padding: 3px 3px;
+    font:5px;
+    color: black;
+    cursor: pointer;
+    background-color: #ccc;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.LikeButtons:active{
+    background-color:mistyrose;
+}/*.LikeButtons:hover{
+    background-color:mistyrose;
+}*/
+.alertWelcome {
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+    padding: 20px;
+    width: 500px;
+    background-color: mistyrose;
+    color: white;
+    position: fixed;
+    transform: translate(650px,300px);
+    z-index: 3;
+    overflow:auto;
+}
+.labelWelcome{
+    font-size:30px;
+    color:indianred;
+}
+.labelWelcome2 {
+    font-size: 30px;
+    color: darkseagreen;
+}
+
+.btnTur {
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: indianred;
+    color: white;
+}

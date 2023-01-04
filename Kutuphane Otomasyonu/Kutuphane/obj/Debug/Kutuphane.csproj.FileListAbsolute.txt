@@ -1,0 +1,176 @@
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\Kutuphane.dll.config
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\Kutuphane.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\Kutuphane.pdb
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\csc.exe
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\csc.exe.config
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\csc.rsp
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\csi.exe
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\csi.exe.config
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\csi.rsp
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Console.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\vbc.exe
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\vbc.exe.config
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\vbc.rsp
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\ClassLibrary.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\ClassLibrary.pdb
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.dll
+C:\Users\ecem\Desktop\Kutuphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Kutuphane.dll.config
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Kutuphane.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Kutuphane.pdb
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csc.exe
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csc.exe.config
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csc.rsp
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csi.exe
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csi.exe.config
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csi.rsp
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Console.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\vbc.exe
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\vbc.exe.config
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\vbc.rsp
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\ClassLibrary.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\ClassLibrary.pdb
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.dll
+C:\Users\ecem\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Kutuphane.dll.config
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Kutuphane.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Kutuphane.pdb
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csc.exe
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csc.exe.config
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csc.rsp
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csi.exe
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csi.exe.config
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\csi.rsp
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Console.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\vbc.exe
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\vbc.exe.config
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\vbc.rsp
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\ClassLibrary.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\ClassLibrary.pdb
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.dll
+C:\Users\COZUM PC\Desktop\Kutuphanee\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+D:\a\Kutuphane\obj\Debug\Kutuphane.dll
+D:\a\Kutuphane\obj\Debug\Kutuphane.pdb

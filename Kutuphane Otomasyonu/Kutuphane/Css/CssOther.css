@@ -1,0 +1,649 @@
+﻿/*@media (min-width: 1281px) {*/
+
+
+body {
+    background-color: seashell;
+}
+
+/*
+.butonlar {
+    margin-right:auto;
+
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+input[type="submit"]:hover {
+    background-color: floralwhite;
+}
+    */ /*
+a {
+    text-decoration: none;
+    font-size =50px;
+    align-items: center;
+    text-align: center;
+}
+*/
+/* unvisited link 
+    a:link {
+        color: red;
+    }
+
+   visited link 
+    a:visited {
+        color: green;
+    }
+
+ mouse over link
+    a:hover {
+        color: hotpink;
+    }
+
+ selected link 
+    a:active {
+        color: blue;
+    }
+*/
+/* The navigation menu */
+.navbar {
+    overflow: hidden;
+    background-color: darkseagreen;
+}
+
+    /* Navigation links */
+    .navbar a {
+        float: left;
+        font-size: 16px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+/* The subnavigation menu */
+.subnav {
+    float: left;
+    overflow: hidden;
+}
+
+    /* Subnav button */
+    .subnav .subnavbtn {
+        font-size: 16px;
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
+
+    /* Add a red background color to navigation links on hover */
+    .navbar a:hover, .subnav:hover .subnavbtn {
+        background-color: lightgrey;
+    }
+
+/* Style the subnav content - positioned absolute */
+.subnav-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: gray;
+    width: 100%;
+    z-index: 1;
+}
+
+    /* Style the subnav links */
+    .subnav-content a {
+        float: left;
+        color: white;
+        text-decoration: none;
+    }
+
+        /* Add a grey background color on hover */
+        .subnav-content a:hover {
+            background-color: #eee;
+            color: black;
+        }
+
+/* When you move the mouse over the subnav container, open the subnav content */
+.subnav:hover .subnav-content {
+    display: block;
+}
+/*.toTheTop {
+    position:fixed;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    padding: 10px;
+}*/
+.table1 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: auto;
+    left: 42%;
+    background-color: transparent;
+}
+
+.div1 {
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    opacity: 0.7;
+    border-color: black;
+    margin-top: 300px;
+    margin-left: auto;
+    position: absolute;
+    left: 39%;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+    border-radius: 15px;
+}
+
+.label1 {
+    width: 120px;
+    color: dimgray;
+}
+
+.labelAna {
+    width: 120px;
+    color: #336600;
+}
+
+.header1 {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: auto;
+    left: 42%;
+}
+
+.text1 {
+    margin-right: auto;
+    width: 180px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: burlywood;
+    border-bottom-color: grey;
+    border-bottom: solid 1px;
+}
+
+.buttons {
+    width: 300px;
+    transform: translate(5px,40px);
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: papayawhip;
+}
+
+.btnTur{
+    cursor:pointer;
+    border-radius:3px;
+    background-color:darkseagreen;
+    color:white;
+}
+.btnTur:active{
+    background-color:dimgray;
+
+}
+
+.overlay .tablo .butonKitap {
+    width: 150px;
+    cursor: pointer;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #006600;
+    position: absolute;
+    transform: translate(120px,50px);
+}
+
+.errorBos {
+    width: 300px;
+    transform: translate(60px,60px);
+    color: burlywood;
+}
+
+.errorOlan {
+    width: 300px;
+    transform: translate(-80px,60px);
+    color: burlywood;
+}
+
+.table2 {
+    top: 60%;
+    left: 60%;
+    transform: translate(30%,60px);
+}
+
+.confirm {
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    opacity: 0.7;
+    border-color: black;
+    margin-top: 300px;
+    margin-left: auto;
+    left: 39%;
+    position: absolute;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+    border-radius: 15px;
+}
+
+
+.confirmLabel {
+    position: absolute;
+    margin-top: 95px;
+    margin-left: auto;
+    left: 25%;
+    color: burlywood;
+}
+
+.confirmLabel2 {
+    position: absolute;
+    margin-top: 95px;
+    margin-left: auto;
+    left: 5%;
+    color: burlywood;
+}
+
+.confirmLabelDel {
+    position: absolute;
+    margin-top: 95px;
+    margin-left: auto;
+    left: 15%;
+    color: burlywood;
+}
+
+.confirm2 {
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 100px;
+    background-color: transparent;
+    margin-top: 500px;
+    margin-left: auto;
+    left: 39%;
+    position: absolute;
+}
+/*}*/
+.search input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    width: 700px;
+    background: #f1f1f1;
+}
+
+.searchDuzen input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    width: 700px;
+    background: #f1f1f1;
+}
+
+.butonForSearching {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    width: 100px;
+    background-color: cadetblue;
+}
+
+.search {
+    align-items: center;
+    width: 1000px;
+    height: 150px;
+    background-color: dimgray;
+    opacity: 0.6;
+    border-color: black;
+    margin-top: 300px;
+    margin-left: auto;
+    left: 19%;
+    position: absolute;
+    box-shadow: 0px 0px 10px 5px dimgray;
+    border-radius: 15px;
+}
+
+.searchDuzen {
+    align-items: center;
+    width: 1000px;
+    height: 150px;
+    background-color: dimgray;
+    opacity: 0.6;
+    border-color: black;
+    margin-top: 30px;
+    margin-left: auto;
+    left: 19%;
+    position: absolute;
+    box-shadow: 0px 0px 10px 5px dimgray;
+    border-radius: 15px;
+}
+
+.tableSearch {
+    width: 800px;
+    transform: translate(80px,50px);
+}
+
+.textMulti {
+    margin-right: auto;
+    width: 310px;
+    height: 100px;
+    background-color: transparent;
+    border: solid 1px;
+    outline: none;
+    color: burlywood;
+    border-color: burlywood;
+}
+
+.buttonUpload {
+    width: 300px;
+    transform: translate(5px,10px);
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: papayawhip;
+}
+
+.errorUpload {
+    width: 300px;
+    transform: translate(50px,20px);
+    color: burlywood;
+}
+
+.imageKitap {
+    border: solid 1px;
+    border-color: burlywood;
+    margin-left: 70px;
+}
+
+.mainDiv {
+    text-align: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    background-color: black;
+    opacity: 0.6;
+    border-color: black;
+    margin-top: 40px;
+    margin-left: 500px;
+    position: absolute;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+}
+
+.grid {
+    align-items: center;
+    text-align: center;
+    color: seagreen;
+    background-color: bisque;
+    border-color: cornsilk;
+}
+
+.butonKitap {
+    width: 150px;
+    cursor: pointer;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #006600;
+}
+
+.overlay {
+    position: absolute;
+    left: 0;
+    margin-top: -487px;
+    width: 395px;
+    height: 482px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: bisque;
+    border: solid 5px;
+    border-color: seagreen;
+}
+
+    .overlay:hover {
+        opacity: 1;
+    }
+
+.tablo {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.calendar {
+    background-color: bisque;
+    position: relative;
+    left: 15px;
+    text-decoration: none;
+}
+
+.divKira {
+    text-align: center;
+    align-items: center;
+    width: 700px;
+    height: 600px;
+    background-color: black;
+    opacity: 0.6;
+    border-color: black;
+    margin-top: 80px;
+    margin-left: 600px;
+    position: absolute;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+}
+
+.imageKitap2 {
+    border: solid 1px;
+    border-color: burlywood;
+}
+
+.imageKira {
+    position: absolute;
+    left: 30px;
+    top: 50px;
+}
+
+.tableKira {
+    position: absolute;
+    left: 360px;
+    top: 20px;
+}
+
+.divKira .buttons {
+    position: absolute;
+    top: 490px;
+}
+
+.labelError {
+    width: 220px;
+    color: dimgray;
+    position: absolute;
+    left: 50px;
+    top: 500px;
+}
+
+.buttonKira {
+    width: 300px;
+    transform: translate(5px,10px);
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: papayawhip;
+}
+
+.btnCheck {
+    padding: 10px 10px;
+    margin: 10px;
+}
+
+.rateBook {
+    margin-top: -40px;
+    margin-left: 50px;
+    position: absolute;
+    height: 46px;
+    padding: 0 10px;
+}
+
+    .rateBook:not(:checked) > input {
+        position: absolute;
+        top: -9999px;
+    }
+
+    .rateBook:not(:checked) > label {
+        float: right;
+        width: 1em;
+        overflow: hidden;
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 30px;
+        color: #ccc;
+    }
+
+        .rateBook:not(:checked) > label:before {
+            content: '★ ';
+        }
+
+    .rateBook > input:checked ~ label {
+        color: #ffc700;
+    }
+
+
+.NameBox {
+    text-align: center;
+    align-items: center;
+    width: 80px;
+    position: relative;
+    margin-top: 30px;
+}
+
+.alert2 {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    background-color: darkseagreen;
+    position: fixed;
+    overflow: auto;
+    transform: translate(700px,220px);
+}
+
+.likeGrid {
+    width: inherit;
+    height: inherit;
+    border: none;
+    padding: 5px 5px;
+    color: white;
+}
+
+.butonYorum {
+    width: 200px;
+    transform: translate(790px,242px);
+    cursor: pointer;
+    border-color: seagreen;
+    padding: 5px 80px;
+    border-radius: 3px;
+    background-color: papayawhip;
+}
+
+.gridComment {
+    text-align: center;
+    align-items: center;
+    width: 1000px;
+    opacity: 0.8;
+    background-color: papayawhip;
+    border: 10px solid darkseagreen;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+}
+
+.CommentBox {
+    overflow: auto;
+    padding: 10px 10px;
+    background-color: papayawhip;
+    border: 1px solid seagreen;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 800px;
+    height: 80px;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .closebtn:hover {
+        color: black;
+    }
+
+.imge {
+    padding: 3px 3px;
+    font: 5px;
+    color: black;
+    cursor: pointer;
+    background-color: #ccc;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+.delButton {
+    width: 180px;
+    height: 40px;
+    padding: 3px 3px;
+    background-color: #838383;
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,.75);
+    transform: translate(40px,40px);
+}
+
+.delBox {
+    position: fixed;
+    width: 200px;
+    height: 100px;
+    margin-top: 250px;
+    margin-left: auto;
+    left: 70%;
+    border-radius: 15px;
+}
+
+.checkBox{
+    background-color:transparent;
+
+}
+
+.alert {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    position: fixed;
+    transform: translate(700px,-130px);
+    z-index:4;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    z-index:5;
+}
+
+    .closebtn:hover {
+        color: black;
+    }
